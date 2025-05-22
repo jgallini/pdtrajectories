@@ -11,3 +11,5 @@ Much of this code is written specifically for Parkinson's cognitive models for
 an RA project in 2025. Model predictors can be adjusted for other projects as
 desired, but currently are not function inputs 
 (the actual function code should be modified to do this.)
+
+This code was tested using R version 4.4.2.
